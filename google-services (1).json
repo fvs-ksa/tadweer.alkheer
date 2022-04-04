@@ -1,0 +1,111 @@
+{
+  "project_info": {
+    "project_number": "595308054674",
+    "firebase_url": "https://tadweer-alkheer-default-rtdb.firebaseio.com",
+    "project_id": "tadweer-alkheer",
+    "storage_bucket": "tadweer-alkheer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595308054674:android:dfd3cc792b3e0d2f137e4b",
+        "android_client_info": {
+          "package_name": "com.tadweer.alkheer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595308054674-101c0dfj7nlibtfdi9gpude2jhuco7ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tadweer.alkheer",
+            "certificate_hash": "9cf0265f30262f32a90806488e92f906c5b15cf5"
+          }
+        },
+        {
+          "client_id": "595308054674-4o4e9ci2eaaaf4qq8h3vbbu113jq6ttn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tadweer.alkheer",
+            "certificate_hash": "7d7cd620586c41ba79dd8f35918ca54fa9b13592"
+          }
+        },
+        {
+          "client_id": "595308054674-5ed6uikv4mn1d4i6722nohfd1onam11n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tadweer.alkheer",
+            "certificate_hash": "16983e5b8efcdd509ce21a2eaf34ec59792bd467"
+          }
+        },
+        {
+          "client_id": "595308054674-7s0inhn2aducaqnhc6ndeofdbdt33sid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tadweer.alkheer",
+            "certificate_hash": "bccc0188be8e61bca2ae8d710dda844fa3087b2b"
+          }
+        },
+        {
+          "client_id": "595308054674-k76jm4qm5pnijm8n2i9fcth25lrjpo96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tadweer.alkheer",
+            "certificate_hash": "3c2f8c0cafc442462a294526d16305cc17dd0bb5"
+          }
+        },
+        {
+          "client_id": "595308054674-ko9q07badptapuhlqoeipcn6vk1glmp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tadweer.alkheer",
+            "certificate_hash": "a2493a8fb991dba6dde854dffc68c4691bd6470d"
+          }
+        },
+        {
+          "client_id": "595308054674-o890iesk2kclh7fs9daruhsj969h1n5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tadweer.alkheer",
+            "certificate_hash": "324c23c1850b59a9371527cfa705af56ddb7e5eb"
+          }
+        },
+        {
+          "client_id": "595308054674-tf2eqjkog59d3umblr6p0khkt04s85sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tadweer.alkheer",
+            "certificate_hash": "3a4559604db05b8b2a8562e2c4446dc746f2a007"
+          }
+        },
+        {
+          "client_id": "595308054674-it87i19o2c9uavoncndhitl47s3rff5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC-4fdsTpmI29TEymhL_03YrxptBaQ9Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595308054674-it87i19o2c9uavoncndhitl47s3rff5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595308054674-5b6ndr5i1kbj5rpag81othvh71i8u216.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tadweer.alkheer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

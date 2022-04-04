@@ -1,0 +1,499 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "The current Language"
+    },
+    "appname": "Tadweer Alkhir",
+        "@appname":{
+            "description": "The app name"
+    },
+    "home": "Home",
+    "@home":{
+        "description": "The Home page" 
+    },
+    "profile": "Profile",
+    "@profile":{
+        "description": "The profile page" 
+    },
+    "donations": "Donations",
+    "@donations":{
+        "description": "The donations page" 
+    },
+    "settings": "Settings",
+    "@settings":{
+        "description": "The settings page" 
+    },
+    "mydonations": "My Donations",
+    "@mydonations":{
+        "description": "The donations page heading" 
+    },
+    "privacy": "Privacy",
+    "@privacy":{
+        "description": "The privacy label" 
+    },
+    "aboutus": "About Tadween Alkheer",
+    "@aboutus":{
+        "description": "The about us label" 
+    },
+    "help": "Help those who are in need",
+    "@help":{
+        "description": "The help people label label" 
+    },
+    "add": "Add",
+    "@add":{
+        "description": "The add button label" 
+    },
+    "posteddate": "Posted Date:",
+    "@posteddate":{
+        "description": " " 
+    },
+    "pickupaddress": "Pickup Address:",
+    "@pickupaddress":{
+        "description": " " 
+    },
+    "itemdescription": "Item Description:",
+    "@itemdescription":{
+        "description": " " 
+    },
+    "itemname": "Name:",
+    "@itemname":{
+        "description": " " 
+    },
+    "itemcategory": "Category",
+    "@itemcategory":{
+        "description": " " 
+    },
+    "quantity": "Quanity:",
+    "@quantity":{
+        "description": " quantity label " 
+    },
+    "pickupdatetime": "Pickup Date & Time:",
+    "@pickupdatetime":{
+        "description": " " 
+    },
+    "staus": "Status:",
+    "@staus":{
+        "description": " " 
+    },
+    "joindate": "Join Date:",
+    "@joindate":{
+        "description": " " 
+    },
+    "address": "Address:",
+    "@address":{
+        "description": " user's address label" 
+    },
+    "itemsdonated": "Items Donated:",
+    "@itemsdonated":{
+        "description": " " 
+    },
+    "phonenumber": "Phone Number:",
+    "@phonenumber":{
+        "description": " " 
+    },
+    "mobileNumber": "Phone Number:",
+    "@mobileNumber":{
+        "description": " " 
+    },
+    "settingsTabBar": "Settings",
+    "@settingsTabBar":{
+        "description": " " 
+    },
+    "validateMobile": "Mobile Number must be of 10 digit",
+    "@validateMobile":{
+        "description": " " 
+    },
+    "more": "More",
+    "@more":{
+        "description": " " 
+    },
+    "email": "Email:",
+    "@email":{
+        "description": " " 
+    },
+    "logout": "Logout",
+    "@logout":{
+        "description": " " 
+    },
+    "aboutuspassage": "A national project stemming from the 2030 vision\n  It is managed by skilled national hands, and it is considered a link between charities and the consumer. We collect what you have from the environment’s surplus, the proceeds of which benefit charities.\nThe project provides economic and environmental solutions to benefit from wasted wealth that serves our dear country, by finding sound ways to dispose of environmental waste away from the harms of burying or burning waste in the ground.",
+    "@aboutuspassage":{
+        "description": " Content of aboutus page" 
+    },
+    "name": "Name:",
+    "@name":{
+        "description": " " 
+    },
+    "namelabel": "Name",
+    "@namelabel":{
+        "description": " " 
+    },
+    "descriptionlabel": "Description",
+    "@descriptionlabel":{
+        "description": " description label" 
+    },
+    "quantitylabel": "Quantity",
+    "@quantitylabel":{
+        "description": " Quantity label"
+    },
+    "pickupaddresslabel": "Pickup Address",
+    "@pickupaddresslabel":{
+        "description": " pickup address label " 
+    },
+    "pickupdatetimelabel": "Pickup Date & Time",
+    "@pickupdatetimelabel":{
+        "description": " " 
+    },
+    "selectdatetime": "Select Date & Time",
+    "@selectdatetime":{
+        "description": " " 
+    },
+    "donateitem": "Donate Item",
+    "@donateitem":{
+        "description": " " 
+    },
+    "camera": "Camera",
+    "@camera":{
+        "description": " camera option " 
+    },
+    "gallery": "Gallery",
+    "@gallery":{
+        "description": " gallery option " 
+    },
+    "fromcameraorgallery": "Get image from Camera or Gallery?",
+    "@fromcameraorgallery":{
+        "description": " Alert box content to get image source " 
+    },
+    "addpicture": "Add Picture",
+    "@addpicture":{
+        "description": " Alert box heading " 
+    },
+    "addvideo": "Add Video",
+    "@addvideo":{
+        "description": " Alert box heading " 
+    },
+    "supportcenter": "Support Center",
+    "@supportcenter":{
+        "description": " Support center  " 
+    },
+    "save": "Save",
+    "@save":{
+        "description": " The save button label"
+    },
+    "editprofile": "Edit Profile",
+    "@editprofile":{
+        "description": " The edit profile heading"
+    },
+    "editimage": "Edit Image",
+    "@editimage":{
+        "description": " The edit profile heading"
+    },
+    "supportcentercontent": "Contact us through our support Channels:",
+    "@supportcentercontent":{
+        "description": " The content of the support center page"
+    },
+    "phonenumberlabel": "Phone Number:",
+    "@phonenumberlabel":{
+        "description": " " 
+    },
+    "emaillabel": "Email",
+    "@emaillabel":{
+        "description": " " 
+    },
+    "icnumber": "IC Number:",
+    "@icnumber":{
+        "description": " " 
+    },
+    "addresslabel": "Address:",
+    "@addresslabel":{
+        "description": " " 
+    },
+    "newaccount": "New Account",
+    "@newaccount":{
+        "description": " " 
+    },
+    "login": "Login",
+    "@login":{
+        "description": " " 
+    },
+    "register": "Register",
+    "@register":{
+        "description": " " 
+    },
+    "haveaccount": "I already have an account.",
+    "@haveaccount":{
+        "description": " " 
+    },
+    "validemail": "Please enter a valid email address",
+    "@validemail":{
+        "description": " " 
+    },
+    "validicnumber": "Please enter ateast 4 characters",
+    "@validicnumber":{
+        "description": " " 
+    },
+    "validaddress": "Please enter ateast 10 characters",
+    "@validaddress":{
+        "description": " " 
+    },
+    "userexists": "A user with this number already exists.",
+    "@userexists":{
+        "description": " " 
+    },
+    "additem": "Add Item",
+    "@additem":{
+        "description": " " 
+    },
+    "currenttasks": "Current Tasks",
+    "@currenttasks":{
+        "description": "Current Tasks Category " 
+    },
+    "completedtasks": "Completed Tasks",
+    "@completedtasks":{
+        "description": " " 
+    },
+    "cancelledtasks": "Cancelled Tasks",
+    "@cancelledtasks":{
+        "description": " " 
+    },
+    "alltasks": "All Tasks",
+    "@alltasks":{
+        "description": " " 
+    },
+    "mytasks": "My Tasks",
+    "@mytasks":{
+        "description": " " 
+    },
+    "tasks": "Tasks",
+    "@tasks":{
+        "description": " " 
+    },
+    "pickedup": "Picked up",
+    "@pickedup":{
+        "description": " " 
+    },
+    "delivered": "Delivered",
+    "@delivered":{
+        "description": " " 
+    },
+    "mapLocation": "Map",
+    "@mapLocation":{
+        "description": " " 
+    },
+    "pickupdate": "Pickup Date:",
+    "@pickupdate":{
+        "description": " " 
+    },
+    "pickuptime": "Pickup Time:",
+    "@pickuptime":{
+        "description": " " 
+    },
+    "clickon": "Click on ",
+    "@clickon":{
+        "description": " " 
+    },
+    "tonavigate": " to navigate to Google Maps for directions.",
+    "@tonavigate":{
+        "description": " " 
+    },
+    "checklocation": " Check Location",
+    "@checklocation":{
+        "description": " " 
+    },
+    "deliveredcontent": "Delivered! Waiting for confirmation of complition. ",
+    "@deliveredcontent":{
+        "description": " " 
+    },
+    "loginrequiredalert": "Login Required",
+    "@loginrequiredalert":{
+        "description": " " 
+    },
+    "loginrequiredalertcontent": "Please login or register  to access features of Tadweer Al Kahir app. ",
+    "@loginrequiredalertcontent":{
+        "description": " " 
+    },
+    "loginas": "Login as ",
+    "@loginas":{
+        "description": " " 
+    },
+    "loginasdonor": "Login as Donor",
+    "@loginasdonor":{
+        "description": " " 
+    },
+    "donor": "Donor",
+    "@donor":{
+        "description": " " 
+    },
+    "loginasdriver": "Login as Driver",
+    "@loginasdriver":{
+        "description": " " 
+    },
+    "driver": "Driver",
+    "@driver":{
+        "description": " " 
+    },
+    "verifyphonenum": "Please enter 10 digits",
+    "@verifyphonenum":{
+        "description": " " 
+    },
+    "verifyphonenum2":"Phone number must start with 0",
+    "@verifyphonenum2":{
+        "description": " " 
+    },
+    "accountnotexist" : "Account does not exist. Create one instead.",
+    "@accountnotexist":{
+        "description": " " 
+    },
+    "languageword": "Language",
+    "@languageword":{
+        "description": " The word Language " 
+    },
+    "least2CharError" : "This should be at least 2 characters.",
+    "@least2CharError":{
+        "description": " "
+    },
+    "most15CharError" : "This should be at most 15 characters.",
+    "@most15CharError":{
+        "description": " "
+    },
+    "most110CharError" : "This should be at most 110 characters.",
+    "@most110CharError":{
+        "description": " "
+    },
+    "least10CharError" : "This should be at least 10 characters.",
+    "@least10CharError":{
+        "description": " "
+    },
+    "descError" : "Please provide a description",
+    "@descError":{
+        "description": " "
+    },
+    "quantityError" : "Please provide a quantity",
+    "@quantityError":{
+        "description": " "
+    },
+    "least1QuantityError" : "This should be at least 1",
+    "@least1QuantityError":{
+        "description": " "
+    },
+    "currentLocation" : "Current Location",
+    "@currentLocation":{
+        "description": " "
+    },
+    "selectOnMap" : "Select on Map",
+    "@selectOnMap":{
+        "description": " "
+    },
+    "noLocationChosen" : "No location chosen",
+    "@noLocationChosen":{
+        "description": " "
+    },
+    "cancel" : "cancel",
+    "@cancel":{
+        "description": " "
+    },
+    "donateDone" : "Donation is Done. We will contact you ASAP. Thank You!",
+    "@donateDone":{
+        "description": " "
+    },
+    "returnToHome" : "Return To Home",
+    "@returnToHome":{
+        "description": " "
+    },
+    "pickupDate" : "Pickup Date",
+    "@pickupDate":{
+        "description": " "
+    },
+    "pickupTime" : "Pickup Time",
+    "@pickupTime":{
+        "description": " "
+    },
+    "order" : "order",
+    "@order":{
+        "description": " "
+    },
+    "loginRequired" : "This page requires your login credentials",
+    "@loginRequired":{
+        "description": " "
+    },
+    "partners" : "Our Partners",
+    "@partners":{
+        "description": " "
+    },
+    "markedPoint": "Donation Points",
+    "@markedPoint":{
+        "description": "The markedPoint page"
+    },
+    "imageGallery": "Image Gallery",
+    "@imageGallery":{
+        "description": "Image Gallery"
+    },
+    "videoGallery": "Video Gallery",
+    "@videoGallery":{
+        "description": "Video Gallery"
+    },
+    
+    "ready": "Ready",
+    "@ready":{
+        "description": ""
+    },
+    "preparing": "Receiving",
+    "@preparing":{
+        "description": ""
+    },
+    "received": "Received",
+    "@received":{
+        "description": ""
+    },
+    "rateText": "What do you think about the request..",
+    "@rateText":{
+        "description": ""
+    },
+    
+    "mydonationPoint": "My Points",
+    "@mydonationPoint":{
+        "description": ""
+    },
+    
+    "sendComment": "Send",
+    "@sendComment":{
+        "description": ""
+    },
+    "ourWebsite": "Visit Our Website",
+    "@ourWebsite":{
+        "description": ""
+    },
+
+    
+    "aboutTadweer": "A national project stemming from Vision 2030. It is a link between the donor and charities, where we collect your surplus. The environment (clothes, paper, books...), with its proceeds benefiting charities. The project provides economic and environmental solutions to benefit from wasted wealth that serves our dear country, through: By finding sound ways to dispose of environmental remnants away from the damages of burying them in the ground.or burn it. Tadweer Al-Khair also receives legal books and noble Quran books to be distributed to students of knowledge, the needy; To preserve it from insult, and in it is the name of God.",
+    "@aboutTadweer":{
+        "description": ""
+    },
+
+    "walaa": "Walaa",
+    "@walaa":{
+        "description": ""
+    },
+
+    "contributionpoints": "Contribution Points",
+    "@contributionpoints":{
+        "description": ""
+},
+
+
+    "definePoints": "Contributions Points It is a motivational program to reward the donor so that each donor gets 100 points for each donation request, and another 50 points for evaluation and notes on the request.",
+    "@definePoints":{
+        "description": ""
+},
+     
+    "titleLogo": "Title Logo",
+    "@titleLogo":{
+        "description": ""
+    },
+"ratingDone":"Rating Done Successfully",
+        "@ratingDone":{
+            "description": ""
+        },
+
+
+    "videoGalleryEmpty": "no videos in gallery, comeback later"
+}
